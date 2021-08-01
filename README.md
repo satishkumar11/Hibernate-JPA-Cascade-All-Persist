@@ -1,0 +1,1 @@
+# Hibernate-JPA-Cascade-All-Persist
